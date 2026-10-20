@@ -25,7 +25,7 @@ export const CUT = [
   { img: 'cut-2', slug: 'EXT. ICE & SNOW', time: 'DAY' },
   { img: 'cut-3', slug: 'EXT. ICE & SNOW', time: 'DAY' },
   { img: 'cut-4', slug: 'EXT. LAKES', time: 'DAY' },
-  { img: 'cut-5', slug: 'EXT. GEOTHERMAL', time: 'DAY' },
+  { img: 'cut-5', slug: 'EXT. LANDSCAPES', time: 'DUSK' },
   { img: 'cut-6', slug: 'EXT. ROADS', time: 'DAY' },
   { img: 'cut-7', slug: 'EXT. MOUNTAINS', time: 'DAY' },
   { img: 'cut-8', slug: 'EXT. LANDSCAPES', time: 'DUSK' },
