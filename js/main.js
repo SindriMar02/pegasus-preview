@@ -1,8 +1,8 @@
 // Pegasus Pictures prototype. Motion numbers: PSP probes (Lenis lerp .085, master scrub 1.2, wipe masks .8/.1,
 // bracket ease .16,1,.3,1) + the RVK build (slate loader, sticky stage with a transparent follow-on).
-import { GEO } from './geo.js';
-import { FILM, BRANDS, CUT, ORIGINALS } from './data.js';
-import { estimate, fmtISK } from './rebate.js';
+import { GEO } from './geo.js?v=955c5f7';
+import { FILM, BRANDS, CUT, ORIGINALS } from './data.js?v=955c5f7';
+import { estimate, fmtISK } from './rebate.js?v=955c5f7';
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
