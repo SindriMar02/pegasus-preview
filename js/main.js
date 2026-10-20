@@ -42,7 +42,7 @@ function renderOriginals() {
 }
 
 /* ---------- location finder ---------- */
-const VIEWS = { IS: [-410, 118, 545, 405], GL: [-3216, -2080, 3633, 2700], NO: [39, -900, 2422, 1800] }; // all at the map's 545:405 aspect
+const VIEWS = { IS: [-420, 112, 565, 420], GL: [-3216, -2080, 3633, 2700], NO: [39, -900, 2422, 1800] }; // all at the map's 545:405 aspect
 const PLACES = GEO.places;
 let cc = 'IS', cat = 'All', activeId = null, view = VIEWS.IS.slice();
 
